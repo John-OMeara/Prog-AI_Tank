@@ -1,0 +1,57 @@
+﻿  LevelLoader.cpp
+c:\users\c00206417\desktop\ecs_example\src\utils\levelloader.cpp(1): fatal error C1083: Cannot open include file: 'utils/LevelLoader.h': No such file or directory
+  CollisionBox.cpp
+c:\users\c00206417\desktop\ecs_example\src\utils\collisionbox.cpp(1): fatal error C1083: Cannot open include file: 'utils/CollisionBox.h': No such file or directory
+  BTMath.cpp
+c:\users\c00206417\desktop\ecs_example\src\utils\btmath.cpp(2): fatal error C1083: Cannot open include file: 'utils/BTMath.h': No such file or directory
+  RenderSystem.cpp
+c:\users\c00206417\desktop\ecs_example\src\systems\rendersystem.cpp(1): fatal error C1083: Cannot open include file: 'systems/RenderSystem.h': No such file or directory
+  PlayerControlSystem.cpp
+c:\users\c00206417\desktop\ecs_example\src\systems\playercontrolsystem.cpp(1): fatal error C1083: Cannot open include file: 'systems/PlayerControlSystem.h': No such file or directory
+  MovementSystem.cpp
+c:\users\c00206417\desktop\ecs_example\src\systems\movementsystem.cpp(1): fatal error C1083: Cannot open include file: 'systems/MovementSystem.h': No such file or directory
+  LevelSystem.cpp
+c:\users\c00206417\desktop\ecs_example\src\systems\levelsystem.cpp(1): fatal error C1083: Cannot open include file: 'systems/LevelSystem.h': No such file or directory
+  AiControlSystem.cpp
+c:\users\c00206417\desktop\ecs_example\src\systems\aicontrolsystem.cpp(1): fatal error C1083: Cannot open include file: 'systems/AiControlSystem.h': No such file or directory
+  main.cpp
+c:\users\c00206417\desktop\ecs_example\src\main.cpp(2): fatal error C1083: Cannot open include file: 'Game.h': No such file or directory
+  Wall.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\wall.cpp(1): fatal error C1083: Cannot open include file: 'components/Wall.h': No such file or directory
+  Volume.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\volume.cpp(1): fatal error C1083: Cannot open include file: 'components/Volume.h': No such file or directory
+  Turret.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\turret.cpp(1): fatal error C1083: Cannot open include file: 'components/Turret.h': No such file or directory
+  Tank.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\tank.cpp(1): fatal error C1083: Cannot open include file: 'components/Tank.h': No such file or directory
+  Position.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\position.cpp(1): fatal error C1083: Cannot open include file: 'components/Position.h': No such file or directory
+  PlayerControl.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\playercontrol.cpp(1): fatal error C1083: Cannot open include file: 'components/PlayerControl.h': No such file or directory
+  Parent.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\parent.cpp(1): fatal error C1083: Cannot open include file: 'components/Parent.h': No such file or directory
+  Motion.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\motion.cpp(1): fatal error C1083: Cannot open include file: 'components/Motion.h': No such file or directory
+  Display.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\display.cpp(1): fatal error C1083: Cannot open include file: 'components/Display.h': No such file or directory
+  Background.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\background.cpp(1): fatal error C1083: Cannot open include file: 'components/Background.h': No such file or directory
+  Ai.cpp
+c:\users\c00206417\desktop\ecs_example\src\components\ai.cpp(1): fatal error C1083: Cannot open include file: 'components/Ai.h': No such file or directory
+  Generating Code...
+  Compiling...
+  ScreenSize.cpp
+c:\users\c00206417\desktop\ecs_example\src\screensize.cpp(1): fatal error C1083: Cannot open include file: 'ScreenSize.h': No such file or directory
+  ResourcePath.cpp
+c:\users\c00206417\desktop\ecs_example\src\resourcepath.cpp(1): fatal error C1083: Cannot open include file: 'ResourcePath.hpp': No such file or directory
+  KeyHandler.cpp
+c:\users\c00206417\desktop\ecs_example\src\keyhandler.cpp(1): fatal error C1083: Cannot open include file: 'KeyHandler.h': No such file or directory
+  GameManager.cpp
+c:\users\c00206417\desktop\ecs_example\src\gamemanager.cpp(1): fatal error C1083: Cannot open include file: 'GameManager.h': No such file or directory
+  Game.cpp
+c:\users\c00206417\desktop\ecs_example\src\game.cpp(4): fatal error C1083: Cannot open include file: 'Game.h': No such file or directory
+  EntityCreator.cpp
+c:\users\c00206417\desktop\ecs_example\src\entitycreator.cpp(1): fatal error C1083: Cannot open include file: 'EntityCreator.h': No such file or directory
+  TankAi.cpp
+c:\users\c00206417\desktop\ecs_example\src\ai\tankai.cpp(1): fatal error C1083: Cannot open include file: 'ai/TankAi.h': No such file or directory
+  Generating Code...
