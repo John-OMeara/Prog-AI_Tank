@@ -14,6 +14,7 @@
 #include "systems/MovementSystem.h"
 #include "systems/PlayerControlSystem.h"
 #include "systems/AiControlSystem.h"
+#include "systems/HUDSystem.h"
 
 /// <summary>
 /// @Author Ross Palmer

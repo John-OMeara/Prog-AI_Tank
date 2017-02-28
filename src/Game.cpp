@@ -113,6 +113,7 @@ void Game::update()
 		m_systemManager.update<MovementSystem>(MS_PER_UPDATE);	
 		m_systemManager.update<PlayerControlSystem>(MS_PER_UPDATE);
 		m_systemManager.update<AiControlSystem>(MS_PER_UPDATE);
+		m_systemManager.update<HUDSystem>(MS_PER_UPDATE);
 	}
 }
 
@@ -141,6 +142,7 @@ void Game::createSystems()
 	m_systemManager.add<MovementSystem>();	
 	m_systemManager.add<PlayerControlSystem>(m_keyHandler);
 	m_systemManager.add<AiControlSystem>();
+	m_systemManager.add<HUDSystem>(m_entityManager, m_window);
 	m_systemManager.configure();
 }
 
